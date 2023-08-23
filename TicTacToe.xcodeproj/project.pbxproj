@@ -41,7 +41,7 @@
 		1CAC7EFA2A34D0AD006262D7 = {
 			isa = PBXGroup;
 			children = (
-				1CAC7F052A34D0AD006262D7 /* VisionTrapped */,
+				1CAC7F052A34D0AD006262D7 /* TicTacToe */,
 				1CAC7F042A34D0AD006262D7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,7 +54,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1CAC7F052A34D0AD006262D7 /* VisionTrapped */ = {
+		1CAC7F052A34D0AD006262D7 /* TicTacToe */ = {
 			isa = PBXGroup;
 			children = (
 				1CAC7F062A34D0AD006262D7 /* AppDelegate.swift */,
@@ -65,7 +65,7 @@
 				1CAC7F0C2A34D0AF006262D7 /* Assets.xcassets */,
 				1CAC7F0E2A34D0AF006262D7 /* Preview Content */,
 			);
-			path = VisionTrapped;
+			path = TicTacToe;
 			sourceTree = "<group>";
 		};
 		1CAC7F0E2A34D0AF006262D7 /* Preview Content */ = {
